@@ -9,7 +9,7 @@ Este guia apoia as atividades mostradas nos arquivos:
 
 - SOMA: `=SOMA(B2:B6)`
 - SUBTRAÇÃO: `=E2-F2`
-- MULTIPLICAÇÃO: `=PRODUTO(C2;D2)`
+- MULTIPLICAÇÃO: `=MULT(C2;D2)`
 
 ## Exercício 1 - Controle de Vendas
 
