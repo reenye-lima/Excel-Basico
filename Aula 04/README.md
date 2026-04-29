@@ -148,6 +148,8 @@ A função DATADIF calcula a diferença entre duas datas em dias, meses ou anos.
 
 **Uso prático:** Calcular idade, tempo de empresa, duração de projetos ou quantidade de dias entre duas datas.
 
+---
+
 ## Dicas Gerais
 
 - As funções de texto ajudam a padronizar informações digitadas de formas diferentes.
